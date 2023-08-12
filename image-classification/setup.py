@@ -38,7 +38,7 @@ setup(
     install_requires=[
         "torch==1.6.0",
         "torchvision==0.7.0",
-        "scipy==1.6.0",
+        "scipy==1.10.0",
         "simple-file-poller>=0.0.9",
         "python-image-complete",
         "redis",
